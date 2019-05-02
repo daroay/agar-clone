@@ -1,0 +1,6 @@
+typescript-webpack-skeleton
+
+# Concurrently
+$ npm run build:server
+$ npm run build:webapp
+$ npm run start:server
